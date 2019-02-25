@@ -1,0 +1,12 @@
+{
+"websites": 
+    [
+        {
+            "name" : "google",
+            "url" : "www.google.com",
+            "pages" : [
+                "search", "config", "test"
+            ]
+        }
+    ]
+}
